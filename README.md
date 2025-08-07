@@ -1,0 +1,1 @@
+# Aplicativo-GUI-conversor-de-moeda
